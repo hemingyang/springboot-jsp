@@ -23,7 +23,3 @@
 #### 关于编译打包
 + 采用maven编译打包后，会在target目录下生成springboot-jsp.war；
 + 采用命令：java -jar springboot-jsp.war , 即可运行；
-
-[GitHub](https://github.com/wangxinforme) [issues](https://github.com/wangxinforme/springboot-jsp/issues)
-
-在上面GitHub 友上面修改了 模糊查询问题 AOP 加入 swagger等.
